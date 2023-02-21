@@ -44,17 +44,17 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Gabicolombo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabicolombo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabicolombo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Gabicolombo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabicolombo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabicolombo&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gabriela-colombo-alves-longo-3018b4152/"><img src="https://img.shields.io/badge/-Gabriela%20Colombo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriela-colombo-alves-longo-3018b4152/"><img src="https://img.shields.io/badge/-Gabriela%20Colombo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
 
