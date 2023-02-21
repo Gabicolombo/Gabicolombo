@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👩🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on IBM
 - 😄 Pronouns: She/Her
 
-### Languages & Frameworks
+### 🛠 &nbsp;Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 
-### Technologies & Database
+### 🛠 &nbsp;Technologies & Database
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)&nbsp;
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Gabicolombo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabicolombo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabicolombo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
