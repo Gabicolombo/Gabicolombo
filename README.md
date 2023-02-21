@@ -50,3 +50,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gabriela-colombo-alves-longo-3018b4152/"><img src="https://img.shields.io/badge/-Gabriela%20Colombo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+</p>
+
