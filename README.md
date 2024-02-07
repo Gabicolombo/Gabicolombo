@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
