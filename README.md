@@ -41,16 +41,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Gabicolombo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabicolombo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabicolombo&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+![AWS](https://img.shields.io/badge/-Amazon-05122A?style=flat&logo=Amazon)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
