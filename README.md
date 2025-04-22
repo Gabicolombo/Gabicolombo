@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👩🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working at IBM
+- 🔭 I’m currently working at Swapcard
 - 😄 Pronouns: She/Her
 
 ### 🛠 &nbsp;Languages & Frameworks
